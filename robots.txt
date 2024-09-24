@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nrebu.github.io/ckR/sitemap.ckR.gz
